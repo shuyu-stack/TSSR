@@ -1,0 +1,70 @@
+# Fichiers temporaires Claude Code
+tmpclaude-*-cwd
+*.tmp
+.claude/
+
+# Fichiers système Windows
+Thumbs.db
+Desktop.ini
+*.lnk
+$RECYCLE.BIN/
+
+# Fichiers système macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Fichiers système Linux
+*~
+.directory
+
+# Fichiers éditeurs
+*.swp
+*.swo
+*.bak
+*.old
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Fichiers de backup
+*.backup
+*~
+
+# Environnements virtuels Python
+venv/
+env/
+ENV/
+.venv
+
+# Node modules
+node_modules/
+
+# Fichiers de configuration locaux
+.env
+.env.local
+config.local.*
+
+# Fichiers VMware (si snapshots/VMs en local - ne pas commiter)
+*.vmdk
+*.vmem
+*.vmss
+*.vmsn
+*.vmsd
+*.nvram
+*.vmx.lck/
+
+# ISOs et fichiers volumineux
+*.iso
+*.img
+
+# Fichiers compressés temporaires
+*.zip
+*.rar
+*.7z
+*.tar.gz
