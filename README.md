@@ -247,12 +247,12 @@ Si vous trouvez une erreur ou avez une amélioration à proposer :
 
 ## 📞 Contact
 
-- 👤 **Nom :** Rimk
+- 👤 **Nom :** Sonny
 - 🎓 **Formation :** TSSR @ Nextformation
 - 📅 **Période :** Décembre 2024 - Juin 2025
 - 🌍 **Localisation :** Paris, France
 - 💼 **LinkedIn :** [Votre profil LinkedIn]
-- 📧 **Email :** [Votre email]
+- 📧 **Email :** sonny_levanneur@hotmail.com
 - 🐙 **GitHub :** [@votre-username](https://github.com/votre-username)
 
 ---
