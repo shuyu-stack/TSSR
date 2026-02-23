@@ -181,8 +181,3 @@ Avec la méthode du **bloc**, tu peux résoudre **90% des exercices rapidement**
 
 ---
 
-Si tu veux, je peux aussi te faire :
-
-* une **fiche ultra condensée (1 page PDF)**
-* des **exercices corrigés type examen**
-* ou un **outil automatique pour t’entraîner** 👍
